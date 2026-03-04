@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi 👋 I'm Amulya Dasari
 
-<!--
-**AmulyaDasari123/AmulyaDasari123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech IT Student  
+💻 Aspiring Software Developer  
+🌐 Frontend | Python | Web Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Portfolio
+
+🔗 https://AmulyaDasari123.github.io
+
+---
+
+## 💻 Coding Profiles
+
+🔹 GeeksforGeeks – Solved 100+ Problems  
+🔗 https://www.geeksforgeeks.org/
+
+🔹 GitHub  
+🔗 https://github.com/AmulyaDasari123
+
+🔹 LinkedIn  
+🔗 https://www.linkedin.com/in/dasari-amulya-4343bb303
+
+---
+
+## 🛠 Skills
+
+HTML  
+CSS  
+JavaScript  
+React  
+Python  
+MongoDB  
+Postman  
+API
+
+---
+
+## 📜 Certifications
+
+🏆 NPTEL – Introduction to Internet of Things (Elite + Silver)
+
+🤖 IBM – Getting Started with Artificial Intelligence
+
+💻 NoviTech – Full Stack Development MasterClass
+
+⚙ NoviTech – API Working + Postman
+
+---
+
+## 🚀 Projects
+
+🔹 Portfolio Website  
+🔹 Weather App (API based)  
+🔹 To-Do List App
+
+---
+
+⭐ Always learning and building new projects.
